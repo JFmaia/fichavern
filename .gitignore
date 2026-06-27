@@ -76,6 +76,11 @@ coverage/
 Thumbs.db
 desktop.ini
 
+# ─── Configuração de ambiente (credenciais) ──────────────────────────────────
+# Nunca versionar arquivos reais; commitar apenas o .example
+config/*.json
+!config/*.example
+
 # ─── Logs e temporários ──────────────────────────────────────────────────────
 *.log
 *.swp
