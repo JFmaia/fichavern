@@ -10,5 +10,6 @@ export 'model/slot.dart';
 export 'model/step_definition.dart';
 export 'model/step_id.dart';
 export 'model/validation_result.dart';
+export 'engine/character_creation_engine.dart';
 export 'ports/ficha_repository.dart';
 export 'ports/sistema_de_rpg.dart';
