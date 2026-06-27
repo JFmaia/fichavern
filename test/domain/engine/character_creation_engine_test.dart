@@ -1,5 +1,4 @@
 import 'package:fichavern/domain/domain.dart';
-import 'package:fichavern/domain/engine/character_creation_engine.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 import 'fake_sistema_de_rpg.dart';
